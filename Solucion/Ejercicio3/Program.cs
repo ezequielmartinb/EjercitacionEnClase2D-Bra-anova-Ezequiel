@@ -21,24 +21,41 @@ namespace Ejercicio3
              */
 
             int numeroIngresado;
-            int opcionIngresada;
+            int opcionIngresada=0;
             bool resultadoParseNumeroIngresado;
+            bool resultadoParseOpcionIngresada;
 
-            while(opcionIngresada!=1)
+            while(opcionIngresada!=2)
             {
                 Console.WriteLine("Ingrese un numero: ");
                 resultadoParseNumeroIngresado = int.TryParse(Console.ReadLine(), out numeroIngresado);
+
                 if(resultadoParseNumeroIngresado)
                 {
-                    Console.WriteLine("Desea seguir ingresado numero?" +
-                                      "   ");
+                    if(numeroIngresado%2!=0)
+                    {
+                        Console.WriteLine($"El numero {numeroIngresado} es primo{Environment.NewLine}");                       
+                    }
+                    Console.WriteLine($"Desea seguir ingresado numero? {Environment.NewLine}" +
+                                     $"1) SEGUIR INGRESAR NUMERO{Environment.NewLine}" +
+                                     $"2) SALIR{Environment.NewLine}");
+                    resultadoParseOpcionIngresada=int.TryParse(Console.ReadLine(), out opcionIngresada);
+
+                    while(resultadoParseOpcionIngresada==false || opcionIngresada<1 || opcionIngresada>2)
+                    {
+                        Console.WriteLine("ERROR. OPCION INVALIDA");
+                        Console.WriteLine($"Desea seguir ingresado numero? {Environment.NewLine}" +
+                                     $"1) SEGUIR INGRESAR NUMERO{Environment.NewLine}" +
+                                     $"2) SALIR{Environment.NewLine}");
+                        resultadoParseOpcionIngresada = int.TryParse(Console.ReadLine(), out opcionIngresada);
+                    }
                 }
-                
+                else
+                {
+                    Console.WriteLine("ERROR. NO INGRESO UN NUMERO");                    
+                }              
 
             }
-
-
-            Console.WriteLine("Hello World!");
         }
     }
 }
