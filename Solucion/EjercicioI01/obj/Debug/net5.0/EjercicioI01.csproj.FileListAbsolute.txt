@@ -1,0 +1,16 @@
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\bin\Debug\net5.0\EjercicioI01.exe
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\bin\Debug\net5.0\EjercicioI01.deps.json
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\bin\Debug\net5.0\EjercicioI01.runtimeconfig.json
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\bin\Debug\net5.0\EjercicioI01.runtimeconfig.dev.json
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\bin\Debug\net5.0\EjercicioI01.dll
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\bin\Debug\net5.0\EjercicioI01.pdb
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\EjercicioI01.csproj.AssemblyReference.cache
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\EjercicioI01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\EjercicioI01.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\EjercicioI01.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\EjercicioI01.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\EjercicioI01.dll
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\refint\EjercicioI01.dll
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\EjercicioI01.pdb
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\EjercicioI01.genruntimeconfig.cache
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Solucion\EjercicioI01\obj\Debug\net5.0\ref\EjercicioI01.dll
