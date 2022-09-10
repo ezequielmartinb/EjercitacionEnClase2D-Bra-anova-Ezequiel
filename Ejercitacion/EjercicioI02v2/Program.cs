@@ -35,7 +35,7 @@ namespace EjercicioI02v2
                 }
                 i++;
 
-            } while (deseaContinuar == true);
+            } while (deseaContinuar != false);
 
             if (resultadoParseNumeroIngresado)
             {
